@@ -1,0 +1,9 @@
+api: 1.8.8
+name: MineralContest
+version: "1.0"
+author: Flens_
+main: fr.aspaku.mineralcontest.MineralContest
+commands:
+  start:
+  config:
+  tparene:
